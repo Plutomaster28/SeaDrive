@@ -7,6 +7,11 @@ Welcome to **SeaDrive**, the brand-new shell designed exclusively for ZoraNT. Ou
 ## Usage
 Simply double click and it opens![^1] As with any CLI, I always recommend running the `help` command to help you get started.
 
+## Installation
+You have two choices, either download the vanilla binary itself (only the base module), or download the entire master directory, which not only includes the main shell, but also two additional modules that help with **network debugging** and **system maintenance** (these can be accessed by using `flipper`.
+
+Users can also compile the source files into their prefered format if executables aren't your thing!
+
 [^1]: Git is required as a dependency
 
-<sub>made with love by Tomoko :heart:</sub>
+<sub>Made with love by Tomoko :heart:</sub>
